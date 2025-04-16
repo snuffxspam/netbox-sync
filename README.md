@@ -30,7 +30,7 @@ cd netbox-sync
 ```
 2. Create configuration file .env:
 ```ini
-NETBOX_URL = "https://your-netbox.domain.com:
+NETBOX_URL = "https://your-netbox.domain.com"
 NETBOX_TOKEN = "your_api_token_here"
 SNMP_COMMUNITY = "public"
 HOST = "192.168.1.1"
