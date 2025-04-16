@@ -37,5 +37,5 @@ DEVICES_LIST=192.168.1.1,192.168.1.2
 ```
 3. Build and run container:
 ```bash
-docker build -t netbox_sync . & docker run -d -p 5000:5000 netbox_sync
+docker build -t netbox_sync . & docker run -d netbox_sync
 ```
