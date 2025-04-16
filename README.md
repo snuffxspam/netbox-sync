@@ -30,10 +30,10 @@ cd netbox-sync
 ```
 2. Create configuration file .env:
 ```ini
-NETBOX_URL=https://your-netbox-instance.com
-NETBOX_TOKEN=your_api_token_here
-SNMP_COMMUNITY=public
-DEVICES_LIST=192.168.1.1,192.168.1.2
+NETBOX_URL = "https://your-netbox.domain.com:
+NETBOX_TOKEN = "your_api_token_here"
+SNMP_COMMUNITY = "public"
+HOST = "192.168.1.1"
 ```
 3. Build and run container:
 ```bash
