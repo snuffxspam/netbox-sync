@@ -1,0 +1,4 @@
+pysnmplib==5.0.24
+requests
+dotenv
+urllib3
