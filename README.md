@@ -25,7 +25,7 @@ Automated network device synchronization VLANs and subnets between SNMP devices 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/netbox-sync.git
+git clone https://github.com/snuffxspam/netbox-sync.git
 cd netbox-sync
 ```
 2. Create configuration file .env:
